@@ -1,0 +1,24 @@
+{
+  "name": "rm-safe",
+  "version": "0.0.1",
+  "description": "Use the `rm` bash command, safely.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bash",
+    "command",
+    "rm",
+    "remove",
+    "cli",
+    "javascript",
+    "Node.js",
+    "node"
+  ],
+  "author": "Ben Michel",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.2.0"
+  }
+}
