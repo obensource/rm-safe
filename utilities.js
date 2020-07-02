@@ -2,8 +2,8 @@ const  inquirer = require('inquirer')
 const fs = require('fs')
 const { execSync } = require('child_process')
 
+// Make a temp folder if one doesn't exist
 const tempFolderCheck = () => {
-  // Make a temp folder if one doesn't exist
   if (!process.env.TMPDIR) {
     const tmpDir = process.env.HOME.concat(`/temp`)
     process.env.TMPDIR = tmpDir
