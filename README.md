@@ -10,7 +10,9 @@ If you're like me, you've shot yourself in the foot too many times using the sta
 
 ## What's different?
 **`safe-rm` has two opinions:**
+
 1️⃣ A backup of the files you delete should be temporarily stored in a common `/temp` directory, so that you can recover something if you did not intend to delete it.
+
 2️⃣ A last-ditch confirmation dialogue should happen whenever you use the `-r`, `-rf`, or `-Rf` flags. This way 
 
 ## Installation
