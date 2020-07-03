@@ -1,4 +1,4 @@
-# rm-safe
+# [rm-safe](https://www.npmjs.com/package/rm-safe) ✔️
 ## Why 'adjust' `rm`?
 <img src="https://i.imgur.com/0kycDvI.png" width="325px" />
 
