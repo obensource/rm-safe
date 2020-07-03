@@ -1,7 +1,7 @@
 {
   "name": "rm-safe",
-  "version": "0.0.3",
-  "description": "Use the `rm` bash command, safely.",
+  "version": "0.0.4",
+  "description": "Use the `rm` shell command, safely.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
