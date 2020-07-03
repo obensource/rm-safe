@@ -18,9 +18,16 @@
   ],
   "author": "Ben Michel",
   "license": "ISC",
+  "bin": {
+    "rm-safe": "./index.js"
+  },
   "dependencies": {
     "eslint": "^7.3.1",
     "inquirer": "^7.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/obensource/rm-safe"
   },
   "devDependencies": {
     "eslint-config-standard": "^14.1.1",
